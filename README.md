@@ -1,8 +1,11 @@
 # CommandBox LITE for Blender
 
 CommandBox for Blender isn't an addon—it's an ever-growing addon universe.
+
 ✅ 20+ very useful addons
+
 ✅ 175+ commands, all gradually increasing. Soon, it will be a universe of thousands of addons! 
+
 
 ## 📺 Video Preview
 [![YouTube Video](https://img.youtube.com/vi/j2pU3Xq8GsU/0.jpg)](https://www.youtube.com/watch?v=j2pU3Xq8GsU)
