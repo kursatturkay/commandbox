@@ -22,5 +22,5 @@ CommandBox for Blender isn't an addon—it's an ever-growing addon universe.
 4. Settings available in Preferences>Addons
 
 ## 📞 Contact
-Reach out for feedback or suggestions; For your command ideas you would like to add.
+Reach out for feedback, suggestions and for your command ideas you would like to add.
 
