@@ -1,4 +1,4 @@
-# CommandBox for Blender
+# CommandBox LITE for Blender
 
 CommandBox for Blender isn't an addon—it's an ever-growing addon universe.
 
