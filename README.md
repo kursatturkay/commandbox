@@ -12,9 +12,10 @@ CommandBox for Blender isn't an addon—it's an ever-growing addon universe.
 
 ## 🚀 Installation
 1. Open **Blender**.
-2. Download the `CommandBox` files.
-3. Configure settings and start using!
+2. Download the `CommandBox` zip file.
+3. Drag Drop onto Blender UI!
+4. Settings availble in Preferences>Addons
 
 ## 📞 Contact
-Reach out for feedback or suggestions.
+Reach out for feedback or suggestions; For your command ideas you would like to add.
 
