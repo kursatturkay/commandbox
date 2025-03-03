@@ -2,9 +2,9 @@
 
 CommandBox for Blender isn't an addon—it's an ever-growing addon universe.
 
-✅ 20+ very useful addons
+✅ 25+ very useful addons
 
-✅ 180+ commands, all gradually increasing. Soon, it will be a universe of thousands of addons! 
+✅ 200+ commands, all gradually increasing. Soon, it will be a universe of thousands of addons! 
 
 all commands howto videos playlist
 https://bit.ly/commandbox
