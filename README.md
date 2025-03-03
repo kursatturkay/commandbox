@@ -29,7 +29,7 @@ Reach out for feedback, suggestions and for your command ideas you would like to
 # CommandBox List
 
 - [1.]()[3 Point Light Setup](https://www.youtube.com/watch?v=Rcgu_myl8XA)
-- [2. Add Default UV Map if None]
+- [2. Add Default UV Map if None](#)
 - [3.]()[Add Vertices Mesh On Click Meshes](https://www.youtube.com/watch?v=h3-CKi7bTMA)
 - [4.]()[Add Vertices On Intersecting Edges](https://www.youtube.com/watch?v=ixyebNEiF8Q)
 - [5. Align View To Selected]()
