@@ -10,7 +10,7 @@ all commands howto videos playlist
 https://bit.ly/commandbox
 
 ## 📺 Video Preview
-[![YouTube Video](https://img.youtube.com/vi/yFNw2-Gymc0/0.jpg)](https://www.youtube.com/watch?v=yFNw2-Gymc0)
+[![YouTube Video](https://img.youtube.com/vi/LYfXzIkSp9s/0.jpg)](https://www.youtube.com/watch?v=LYfXzIkSp9s)
 
 ## 📌 Features
 - Ever-expanding addon ecosystem
